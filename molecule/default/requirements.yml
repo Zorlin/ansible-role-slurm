@@ -1,0 +1,4 @@
+---
+- name: zorlin.slurm
+  src: https://github.com/Zorlin/ansible-role-slurm
+  version: main
