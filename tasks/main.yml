@@ -1,2 +1,9 @@
 ---
 # tasks file for ansible-role-slurm
+# lessons learned - download and build IN /ROOT - it's what the devs seem to expect
+# download slurm
+# configure it
+# compile it
+# install it
+# test it
+
